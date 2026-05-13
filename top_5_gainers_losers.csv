@@ -1,0 +1,131 @@
+Month,Stock,Return_%,Category
+2023-11,Trent,26.82,Gainer
+2023-11,Hero Motocorp,23.5,Gainer
+2023-11,Bpcl,22.08,Gainer
+2023-11,Eicher Motors,18.73,Gainer
+2023-11,Apollo Hospitals,15.27,Gainer
+2023-11,Bajaj Finance,-4.68,Loser
+2023-11,Sbi,-0.29,Loser
+2023-11,Cipla,0.92,Loser
+2023-11,Nestle,1.52,Loser
+2023-11,Itc,1.8,Loser
+2023-12,Bharat Electronics,24.92,Gainer
+2023-12,Adani Ports & Sez,23.74,Gainer
+2023-12,Adani Enterprises,20.58,Gainer
+2023-12,Hindalco,18.88,Gainer
+2023-12,Ultratech Cement,16.26,Gainer
+2023-12,Hdfc Life Insurance,-5.2,Loser
+2023-12,Maruti Suzuki,-2.68,Loser
+2023-12,Axis Bank,-0.21,Loser
+2023-12,Bajaj Finserv,-0.01,Loser
+2023-12,Sbi Life Insurance,0.63,Loser
+2024-01,Ongc,22.84,Gainer
+2024-01,Shriram Finance,20.4,Gainer
+2024-01,Bharti Airtel,15.56,Gainer
+2024-01,Adani Ports & Sez,15.25,Gainer
+2024-01,Bajaj Auto,14.42,Gainer
+2024-01,Hdfc Bank,-13.87,Loser
+2024-01,Asian Paints,-12.9,Loser
+2024-01,Hdfc Life Insurance,-11.11,Loser
+2024-01,Nestle,-8.45,Loser
+2024-01,Jsw Steel,-6.72,Loser
+2024-02,Trent,25.11,Gainer
+2024-02,Bpcl,18.76,Gainer
+2024-02,M&M,17.03,Gainer
+2024-02,Sbi,15.51,Gainer
+2024-02,Sun Pharma,12.07,Gainer
+2024-02,Hindalco,-11.8,Loser
+2024-02,Itc,-8.26,Loser
+2024-02,Kotak Mahindra Bank,-7.31,Loser
+2024-02,Indusind Bank,-4.3,Loser
+2024-02,Hdfc Bank,-4.29,Loser
+2024-03,Bajaj Auto,13.78,Gainer
+2024-03,Bajaj Finance,10.25,Gainer
+2024-03,Bharti Airtel,8.85,Gainer
+2024-03,Maruti Suzuki,8.43,Gainer
+2024-03,Hindalco,7.93,Gainer
+2024-03,Infosys,-9.47,Loser
+2024-03,Tata Consumer,-8.73,Loser
+2024-03,Wipro,-7.51,Loser
+2024-03,Hcl Technologies,-6.12,Loser
+2024-03,Hindustan Unilever,-6.03,Loser
+2024-04,Eicher Motors,16.49,Gainer
+2024-04,Trent,13.46,Gainer
+2024-04,Hindalco,13.33,Gainer
+2024-04,M&M,12.55,Gainer
+2024-04,Bharat Electronics,10.73,Gainer
+2024-04,Hcl Technologies,-12.21,Loser
+2024-04,Kotak Mahindra Bank,-9.31,Loser
+2024-04,Hdfc Life Insurance,-8.05,Loser
+2024-04,Apollo Hospitals,-7.9,Loser
+2024-04,Sun Pharma,-7.8,Loser
+2024-05,Bharat Electronics,26.07,Gainer
+2024-05,M&M,14.69,Gainer
+2024-05,Hero Motocorp,12.24,Gainer
+2024-05,Adani Enterprises,12.23,Gainer
+2024-05,Britannia,8.83,Gainer
+2024-05,Tata Motors,-10.2,Loser
+2024-05,Titan,-9.15,Loser
+2024-05,Shriram Finance,-8.83,Loser
+2024-05,Dr. Reddys Lab,-7.88,Loser
+2024-05,Ongc,-6.52,Loser
+2024-06,Trent,17.54,Gainer
+2024-06,Shriram Finance,16.04,Gainer
+2024-06,Wipro,15.93,Gainer
+2024-06,Tech Mahindra,14.86,Gainer
+2024-06,Grasim,12.73,Gainer
+2024-06,Adani Enterprises,-12.84,Loser
+2024-06,L&T,-8.95,Loser
+2024-06,Bpcl,-8.75,Loser
+2024-06,Coal India,-7.65,Loser
+2024-06,Adani Ports & Sez,-6.68,Loser
+2024-07,Ongc,22.44,Gainer
+2024-07,Hdfc Life Insurance,19.1,Gainer
+2024-07,Infosys,17.44,Gainer
+2024-07,Sbi Life Insurance,16.77,Gainer
+2024-07,Itc,15.45,Gainer
+2024-07,Axis Bank,-7.59,Loser
+2024-07,Bajaj Finance,-6.46,Loser
+2024-07,Hdfc Bank,-5.25,Loser
+2024-07,Tata Steel,-5.02,Loser
+2024-07,Nestle,-4.35,Loser
+2024-08,Trent,24.05,Gainer
+2024-08,Bajaj Auto,11.93,Gainer
+2024-08,Bajaj Finserv,9.07,Gainer
+2024-08,Shriram Finance,7.2,Gainer
+2024-08,Cipla,7.03,Gainer
+2024-08,Maruti Suzuki,-7.16,Loser
+2024-08,Adani Ports & Sez,-6.81,Loser
+2024-08,Power Grid,-6.56,Loser
+2024-08,Tata Steel,-6.32,Loser
+2024-08,Adani Enterprises,-6.15,Loser
+2024-09,M&M,11.45,Gainer
+2024-09,Bajaj Auto,10.96,Gainer
+2024-09,Shriram Finance,10.9,Gainer
+2024-09,Hindalco,10.57,Gainer
+2024-09,Tata Steel,10.25,Gainer
+2024-09,Tata Motors,-10.8,Loser
+2024-09,Ongc,-8.77,Loser
+2024-09,Tcs,-5.59,Loser
+2024-09,Infosys,-4.53,Loser
+2024-09,Tech Mahindra,-4.22,Loser
+2024-10,Sbi,2.92,Gainer
+2024-10,Icici Bank,1.4,Gainer
+2024-10,Hdfc Life Insurance,1.4,Gainer
+2024-10,Wipro,0.92,Gainer
+2024-10,Hdfc Bank,0.55,Gainer
+2024-10,Indusind Bank,-25.12,Loser
+2024-10,Bajaj Auto,-19.09,Loser
+2024-10,Nestle,-16.41,Loser
+2024-10,Tata Consumer,-16.19,Loser
+2024-10,Maruti Suzuki,-15.87,Loser
+2024-11,Tech Mahindra,8.97,Gainer
+2024-11,Infosys,8.03,Gainer
+2024-11,Hcl Technologies,8.02,Gainer
+2024-11,M&M,6.93,Gainer
+2024-11,Tcs,6.54,Gainer
+2024-11,Adani Enterprises,-24.46,Loser
+2024-11,Adani Ports & Sez,-18.48,Loser
+2024-11,Asian Paints,-15.91,Loser
+2024-11,Britannia,-14.84,Loser
+2024-11,Ntpc,-11.16,Loser
